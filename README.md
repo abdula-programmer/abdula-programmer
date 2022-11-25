@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @abdula-programmer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2>О себе</h2>
+<h3>👋 Привет, меня зовут Абдула Магомдов и мне 18 лет</h3>
+<ul>
+   <li>🖥️ Я программирую на React.js уже 3 год.</li>
+   <li>💻 Прохожу разные курсы по программированию на Udemy, Stepik</li>
+   <li>📚 В свободное время читаю бизнес-литературу, психологию и художествую литературу. </li>
+   <li>🌑Еще свободное время уделяю спорту, хожу в тренажерный зал.</li>
+</ul>
 
-<!---
-abdula-programmer/abdula-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h2>Стеки:</h2>
+
+   <ul>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>TypeScript</li>
+      <li>CSS</li>
+      <li>HTML</li>
+
+
+   </ul>
